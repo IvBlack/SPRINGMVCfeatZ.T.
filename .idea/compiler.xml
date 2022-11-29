@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="SPRINGMVCfeatZ.T." target="1.5" />
+      <module name="SPRINGMVCfeatZ.T." target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
